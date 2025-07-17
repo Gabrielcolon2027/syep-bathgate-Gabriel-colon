@@ -2,6 +2,7 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
+    
 }
 
 body{
@@ -9,6 +10,7 @@ body{
     color:burlywood#333;
     text-align:center;
     line-height:3;
+    
 }
 
 .section{
