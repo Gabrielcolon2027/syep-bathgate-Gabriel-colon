@@ -35,3 +35,10 @@ body{
     padding:20px;
     border-radius:100px;
 }
+.profile-pic {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
