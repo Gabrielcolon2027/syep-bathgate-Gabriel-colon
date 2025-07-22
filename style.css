@@ -42,3 +42,19 @@ body{
     object-fit: cover;
     margin-bottom: 20px;
 }
+@media (max-width: 768px){
+    .hero h1{font-size:40px;}
+}
+@media(max-width: 768px){
+     body{
+    background-color: rgb(205, 255, 211);
+    color:burlywood#333;
+    text-align:center;
+    line-height:3;
+    
+}
+}
+.hero-text{
+    display:flex;
+    flex-direction: column;
+}
