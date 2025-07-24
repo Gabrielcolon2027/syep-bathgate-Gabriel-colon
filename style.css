@@ -58,5 +58,22 @@ body{
     display:flex;
     flex-direction: column;
 }
+#home {
+    color: #f77f00; /* Warm orange */
+}
 
+/* Color for #about section */
+#about {
+    color: #008080; /* Teal */
+}
 
+/* Color for #skills section */
+#skills {
+    color: #1d3557; /* Deep blue */
+}
+
+/* Grid items inside #skills section */
+#skills .grid div {
+    background-color: #a8dadc; /* light blue-green background */
+    color: #1d3557; /* Deep blue text */
+    font-weight: bold;
